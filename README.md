@@ -1,2 +1,2 @@
 # PetShop-Project
-This was a colleg project done by me and my teammate for our project in DataBase Management
+A college project for the purpose of DataBase Management System Project
